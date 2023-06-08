@@ -1,7 +1,7 @@
 # Библиотека Python для парсинга Avito.ru
 
 ### Установка:
-> - git clone https://github.com/Sudox00/user_avito & cd user_avito & python3 setup.py install
+> - pip install pars-avito
 ### Импорт:
 > import user_avito
 ### Функции:
