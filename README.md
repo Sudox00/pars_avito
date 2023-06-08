@@ -2,6 +2,8 @@
 
 ### Установка:
 > - git clone https://github.com/Sudox00/user_avito & cd user_avito & python3 setup.py install
+### Импорт:
+> import user_avito
 ### Функции:
 search - текст для поиска
 
