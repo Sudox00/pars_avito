@@ -1,7 +1,7 @@
 # Библиотека Python для парсинга Avito.ru
 
 ### Установка:
-> - pip install pars-avito
+> pip install pars-avito
 ### Импорт:
 > import user_avito
 ### Функции:
@@ -22,4 +22,4 @@ link - ссылка на объявление
 > pars_avito.site_status()
 
 
-### [Открыть пример](https://github.com/Sudox00/user_avito/blob/main/examples/func.py) • [Телеграм разработчика](https://github.com/Sudox00/user_avito/blob/main/examples/func.py)
+### [Открыть пример](https://github.com/Sudox00/user_avito/blob/main/examples/func.py) • [Телеграм разработчика](https://t.me/soketpy2)
