@@ -3,7 +3,7 @@
 ### Установка:
 > pip install pars-avito
 ### Импорт:
-> import user_avito
+> import pars_avito
 ### Функции:
 search - текст для поиска
 
